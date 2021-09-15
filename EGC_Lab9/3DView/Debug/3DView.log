@@ -1,0 +1,3 @@
+﻿3DView.obj : error LNK2019: unresolved external symbol "public: class egc::mat3 __thiscall egc::mat3::operator*(class egc::mat3 const &)const " (??Dmat3@egc@@QBE?AV01@ABV01@@Z) referenced in function _SDL_main
+3DView.obj : error LNK2019: unresolved external symbol "class egc::mat3 __cdecl egc::translate(float,float)" (?translate@egc@@YA?AVmat3@1@MM@Z) referenced in function _SDL_main
+D:\GAC\EGC_Lab9\Debug\3DView.exe : fatal error LNK1120: 2 unresolved externals

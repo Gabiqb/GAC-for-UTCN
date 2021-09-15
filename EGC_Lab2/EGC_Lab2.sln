@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EGC_Lab2", "EGC_Lab2\EGC_Lab2.vcxproj", "{EB4D8266-BC34-4371-BE0B-FE9B82ADC381}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB4D8266-BC34-4371-BE0B-FE9B82ADC381}.Debug|x64.ActiveCfg = Debug|x64
+		{EB4D8266-BC34-4371-BE0B-FE9B82ADC381}.Debug|x64.Build.0 = Debug|x64
+		{EB4D8266-BC34-4371-BE0B-FE9B82ADC381}.Debug|x86.ActiveCfg = Debug|Win32
+		{EB4D8266-BC34-4371-BE0B-FE9B82ADC381}.Debug|x86.Build.0 = Debug|Win32
+		{EB4D8266-BC34-4371-BE0B-FE9B82ADC381}.Release|x64.ActiveCfg = Release|x64
+		{EB4D8266-BC34-4371-BE0B-FE9B82ADC381}.Release|x64.Build.0 = Release|x64
+		{EB4D8266-BC34-4371-BE0B-FE9B82ADC381}.Release|x86.ActiveCfg = Release|Win32
+		{EB4D8266-BC34-4371-BE0B-FE9B82ADC381}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E6F7738-8D17-4C1C-8838-F077B0ADF285}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\GAC\EGC_Lab2\EGC_Lab2\main.cpp(253,8): warning C4102: 'std': unreferenced label
+  vec2.cpp
+  Generating Code...
+  EGC_Lab2.vcxproj -> D:\GAC\EGC_Lab2\x64\Debug\EGC_Lab2.exe

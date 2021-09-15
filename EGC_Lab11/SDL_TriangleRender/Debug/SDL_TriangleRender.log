@@ -1,0 +1,3 @@
+﻿  vec3.cpp
+rasterization.lib(rasterizationValidator.obj) : warning LNK4099: PDB 'BaricentricCoordsControlLib.pdb' was not found with 'rasterization.lib(rasterizationValidator.obj)' or at 'D:\GAC\EGC_Lab11\Debug\BaricentricCoordsControlLib.pdb'; linking object as if no debug info
+  SDL_TriangleRender.vcxproj -> D:\GAC\EGC_Lab11\Debug\SDL_TriangleRender.exe

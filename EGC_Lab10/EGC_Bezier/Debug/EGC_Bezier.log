@@ -1,0 +1,11 @@
+﻿  EGC_Bezier.cpp
+D:\GAC\EGC_Lab10\EGC_Bezier\EGC_Bezier.cpp(86,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\GAC\EGC_Lab10\EGC_Bezier\EGC_Bezier.cpp(86,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\GAC\EGC_Lab10\EGC_Bezier\EGC_Bezier.cpp(175,22): warning C4018: '<': signed/unsigned mismatch
+D:\GAC\EGC_Lab10\EGC_Bezier\EGC_Bezier.cpp(176,118): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\GAC\EGC_Lab10\EGC_Bezier\EGC_Bezier.cpp(176,94): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\GAC\EGC_Lab10\EGC_Bezier\EGC_Bezier.cpp(176,70): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\GAC\EGC_Lab10\EGC_Bezier\EGC_Bezier.cpp(176,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\GAC\EGC_Lab10\EGC_Bezier\EGC_Bezier.cpp(177,60): warning C4305: 'argument': truncation from 'int' to 'Uint8'
+D:\GAC\EGC_Lab10\EGC_Bezier\EGC_Bezier.cpp(177,49): warning C4309: 'argument': truncation of constant value
+  EGC_Bezier.vcxproj -> D:\GAC\EGC_Lab10\Debug\EGC_Bezier.exe

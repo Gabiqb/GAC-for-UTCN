@@ -1,0 +1,40 @@
+﻿  EGC_Lab5.cpp
+D:\GAC\EGC_Lab5\EGC_Lab5\EGC_Lab5.cpp(34,60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\GAC\EGC_Lab5\EGC_Lab5\EGC_Lab5.cpp(34,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\GAC\EGC_Lab5\EGC_Lab5\EGC_Lab5.cpp(34,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\GAC\EGC_Lab5\EGC_Lab5\EGC_Lab5.cpp(34,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\GAC\EGC_Lab5\EGC_Lab5\EGC_Lab5.cpp(35,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\GAC\EGC_Lab5\EGC_Lab5\EGC_Lab5.cpp(35,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\GAC\EGC_Lab5\EGC_Lab5\EGC_Lab5.cpp(35,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\GAC\EGC_Lab5\EGC_Lab5\EGC_Lab5.cpp(35,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\GAC\EGC_Lab5\EGC_Lab5\EGC_Lab5.cpp(36,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\GAC\EGC_Lab5\EGC_Lab5\EGC_Lab5.cpp(36,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\GAC\EGC_Lab5\EGC_Lab5\EGC_Lab5.cpp(36,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\GAC\EGC_Lab5\EGC_Lab5\EGC_Lab5.cpp(36,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\GAC\EGC_Lab5\EGC_Lab5\EGC_Lab5.cpp(37,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\GAC\EGC_Lab5\EGC_Lab5\EGC_Lab5.cpp(37,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\GAC\EGC_Lab5\EGC_Lab5\EGC_Lab5.cpp(37,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\GAC\EGC_Lab5\EGC_Lab5\EGC_Lab5.cpp(37,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\GAC\EGC_Lab5\EGC_Lab5\EGC_Lab5.cpp(97,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\GAC\EGC_Lab5\EGC_Lab5\EGC_Lab5.cpp(98,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\GAC\EGC_Lab5\EGC_Lab5\EGC_Lab5.cpp(116,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\GAC\EGC_Lab5\EGC_Lab5\EGC_Lab5.cpp(117,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\GAC\EGC_Lab5\EGC_Lab5\EGC_Lab5.cpp(133,48): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\GAC\EGC_Lab5\EGC_Lab5\EGC_Lab5.cpp(144,53): warning C4305: 'argument': truncation from 'double' to 'float'
+  mat3.cpp
+  mat4.cpp
+  stdafx.cpp
+  transform.cpp
+D:\GAC\EGC_Lab5\EGC_Lab5\transform.cpp(42,32): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GAC\EGC_Lab5\EGC_Lab5\transform.cpp(42,19): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+D:\GAC\EGC_Lab5\EGC_Lab5\transform.cpp(89,32): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GAC\EGC_Lab5\EGC_Lab5\transform.cpp(89,19): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+D:\GAC\EGC_Lab5\EGC_Lab5\transform.cpp(100,32): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GAC\EGC_Lab5\EGC_Lab5\transform.cpp(100,19): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+D:\GAC\EGC_Lab5\EGC_Lab5\transform.cpp(111,32): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GAC\EGC_Lab5\EGC_Lab5\transform.cpp(111,19): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  vec2.cpp
+  vec3.cpp
+  vec4.cpp
+  Generating Code...
+  EGC_Lab5.vcxproj -> D:\GAC\EGC_Lab5\Debug\EGC_Lab5.exe
